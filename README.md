@@ -1,2 +1,2 @@
-# useful-powershell-scripts
+# Useful PowerShell Scripts
 Useful PowerShell Scripts for everyday applications
