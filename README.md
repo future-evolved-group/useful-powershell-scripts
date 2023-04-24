@@ -5,7 +5,7 @@ A collection of useful PowerShell Scripts for everyday applications.
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 ## How to use
 
-To use any of these scripts, you will simply need to download them from the repository, and save them in `C:\Scripts\PowerShell\{ScriptName.ps1}`.
+To use any of these scripts, you will simply need to download them from the repository, and save them in `C:\Scripts\PowerShell\ScriptName.ps1`.
 
 To execute the script, simply press `Win+R` and type the following:
 
